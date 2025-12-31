@@ -1,0 +1,15 @@
+{
+  "feature_names": [
+    "income",
+    "credit_score",
+    "employment_years",
+    "loan_amount",
+    "loan_to_income_ratio",
+    "debt_service_ratio"
+  ],
+  "target_name": "loan_approved",
+  "model_types": [
+    "logistic_regression",
+    "decision_tree"
+  ]
+}
